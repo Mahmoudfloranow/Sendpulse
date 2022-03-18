@@ -1,0 +1,5 @@
+--** Your emails are authenticated by default with digital signatures of SendPulse. This helps to ensure high delivery rates and at the same time does not require any knowledge about editing DNS records.
+However, we suggest adding custom SPF and DKIM records for your domain.
+
+--**Domain authentication (SPF and DKIM records)
+Add custom SPF and DKIM records for your domain. This can improve delivery rates.
